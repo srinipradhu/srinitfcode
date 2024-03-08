@@ -29,3 +29,6 @@ Refreshing Terraform state in-memory prior to plan...
 Check the plan to crosscechk resources deploy based on requirnment
 Run terraform apply 
 
+
+IN Case of Automated Deployment we can use Azure Devops with YAML based 
+
