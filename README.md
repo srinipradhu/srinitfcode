@@ -1,3 +1,5 @@
 # srinitfcode
 
-This script will automate the installation and configuration of MediaWiki on the specified Red Hat Enterprise Linux instance
+This script will use latest providers and install Linux VM using Terrafom
+Sensetive data we are saving in keyvault for Vm username and password
+We use remote exec to install and configof media wiki 
